@@ -18,7 +18,7 @@ $ npm install sy-node-mysql --save
 // config/plugin.js
 exports.nodeMysql = {
   enable: true,
-  package: 'egg-node-mysql',
+  package: 'egg-sy-node-mysql',
 };
 
 //config.default.js
